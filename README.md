@@ -119,7 +119,7 @@ We usually work with javascript technologies such as Angular, Vuejs, Nodejs, we 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/jos%C3%A9-villar-63453963" target="_blank">
+<a href="https://linkedin.com/company/35700469" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  villar88-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -127,14 +127,14 @@ We usually work with javascript technologies such as Angular, Vuejs, Nodejs, we 
 <br>
 
 <li>
-<a href="https://villartechnologies.com.ve/employee/jose-villar" target="_blank">
+<a href="https://villartechnologies.com.ve" target="_blank">
 <img src="https://img.shields.io/badge/villartechnologies:  villar88-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 
 <li>
-<a href="mailto:villar88@gmail.com" target="_blank">
+<a href="mailto:info@villartechnologies.com.ve" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  villar88-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -150,7 +150,7 @@ We usually work with javascript technologies such as Angular, Vuejs, Nodejs, we 
 
 <div align='center'>
 
-## <b>Thanks for review my profile, anything you need please let me know...✨</b>
+## <b>Thanks for review our profile, anything you need please let us know...✨</b>
 
 </div>
 <br>
